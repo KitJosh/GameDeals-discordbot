@@ -1,4 +1,4 @@
-name: Post Game Deals (every 5 days)
+name: Post Game Deals (Daily)
 
 on:
   schedule:
