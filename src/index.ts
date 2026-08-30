@@ -70,7 +70,7 @@ async function postDeals() {
     const pageSize = 200;
     const baseConfig: ITADConfig = {
       country: COUNTRY,
-      sort: "-cut",
+      sort: "-trending",
       shops: SHOP_IDS,
       minSavings: MIN_SAVINGS,
       maxSavings: MAX_SAVINGS,
