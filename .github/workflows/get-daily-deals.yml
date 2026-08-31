@@ -3,7 +3,7 @@ name: Post Game Deals (Daily)
 on:
   schedule:
     # Run daily at 9:00 PM Philippine time
-    - cron: '0 13 * * *'
+    - cron: '23 13 * * *'
   workflow_dispatch:
 
 permissions:
